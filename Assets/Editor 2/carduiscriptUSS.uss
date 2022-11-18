@@ -1,0 +1,372 @@
+.scroll {
+    height: 637px;
+}
+
+.mainelement {
+    height: 647px;
+}
+
+.element1 {
+    width: 269px;
+    height: 291px;
+    border-left-width: 0;
+    border-top-width: 0;
+    background-color: rgb(255, 251, 251);
+    margin-left: 57px;
+    margin-top: 39px;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    position: absolute;
+    top: 164px;
+    left: 311px;
+}
+
+.ele1label1 {
+    position: absolute;
+    top: 174px;
+    left: 7px;
+    width: 289px;
+    color: rgb(79, 77, 77);
+    -unity-font-style: normal;
+    font-size: 13px;
+}
+
+.ele1label2 {
+    position: absolute;
+    top: 143px;
+    left: 4px;
+    width: 281px;
+    color: rgb(14, 14, 14);
+    font-size: 22px;
+    -unity-font-style: bold;
+    bottom: 92px;
+}
+
+.ele1top {
+    position: absolute;
+    height: 136px;
+    width: 268px;
+    top: 2px;
+    left: 1px;
+    background-color: rgb(2, 2, 2);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.ele1button {
+    position: absolute;
+    top: 231px;
+    left: 24px;
+    width: 199px;
+    height: 33px;
+    background-color: rgb(253, 253, 253);
+    color: rgb(65, 61, 61);
+}
+
+.element2 {
+    width: 311px;
+    height: 291px;
+    border-left-width: 0;
+    border-top-width: 0;
+    background-color: rgb(255, 251, 251);
+    margin-left: 57px;
+    margin-top: 39px;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    position: absolute;
+    top: 120px;
+    left: -32px;
+}
+
+.ele2label1 {
+    position: absolute;
+    top: 240px;
+    left: 85px;
+    width: 196px;
+    color: rgb(79, 77, 77);
+    -unity-font-style: normal;
+    font-size: 13px;
+}
+
+.ele2label2 {
+    position: absolute;
+    top: 209px;
+    left: 84px;
+    width: 190px;
+    color: rgb(14, 14, 14);
+    font-size: 20px;
+    -unity-font-style: bold;
+    bottom: 54px;
+}
+
+.ele2top {
+    position: absolute;
+    height: 179px;
+    width: 309px;
+    top: 2px;
+    left: 1px;
+    background-color: rgb(2, 2, 2);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.ele2photo {
+    position: absolute;
+    height: 53px;
+    width: 57px;
+    top: 206px;
+    left: 17px;
+    background-color: rgb(192, 179, 179);
+    border-top-left-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-right-radius: 27px;
+}
+
+.element3 {
+    width: 283px;
+    height: 167px;
+    border-left-width: 0;
+    border-top-width: 0;
+    background-color: rgb(255, 251, 251);
+    margin-left: 57px;
+    margin-top: 39px;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    position: absolute;
+    top: -18px;
+    left: 370px;
+}
+
+.ele3label1 {
+    position: absolute;
+    top: 22px;
+    left: 18px;
+    width: 160px;
+    color: rgb(12, 11, 11);
+    -unity-font-style: bold;
+    font-size: 15px;
+}
+
+.ele3sun {
+    width: 57px;
+    height: 52px;
+    background-color: rgb(200, 164, 59);
+    position: absolute;
+    top: 85px;
+    left: 200px;
+}
+
+.ele3label2 {
+    position: absolute;
+    top: 43px;
+    left: 22px;
+    width: 196px;
+    color: rgb(84, 80, 80);
+    -unity-font-style: bold;
+    font-size: 12px;
+}
+
+.ele3temp {
+    position: absolute;
+    top: 82px;
+    left: 16px;
+    width: 120px;
+    color: rgb(12, 11, 11);
+    -unity-font-style: bold;
+    font-size: 45px;
+}
+
+.ele3humid {
+    position: absolute;
+    top: 136px;
+    left: 18px;
+    width: 196px;
+    color: rgb(123, 117, 117);
+    -unity-font-style: bold;
+    font-size: 12px;
+}
+
+.element4 {
+    width: 372px;
+    height: 94px;
+    border-left-width: 0;
+    border-top-width: 0;
+    background-color: rgb(255, 251, 251);
+    margin-left: 57px;
+    margin-top: 39px;
+    border-top-left-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
+    position: absolute;
+    top: 9px;
+    left: -15px;
+}
+
+.ele4photo {
+    width: 84px;
+    height: 89px;
+    background-color: rgb(106, 29, 98);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    position: absolute;
+    top: 2px;
+    left: 3px;
+}
+
+.ele4label1 {
+    position: absolute;
+    top: 19px;
+    left: 96px;
+    width: 196px;
+    color: rgb(12, 12, 12);
+    -unity-font-style: bold;
+    font-size: 15px;
+}
+
+.ele4stars {
+    position: absolute;
+    height: 33px;
+    width: 248px;
+    top: 52px;
+    left: 101px;
+    background-color: rgb(115, 104, 104);
+}
+
+.ele4label2 {
+    position: absolute;
+    top: 6px;
+    left: 100px;
+    width: 127px;
+    color: rgb(183, 178, 178);
+    -unity-font-style: bold;
+    font-size: 12px;
+}
+
+.element5 {
+    top: 252px;
+    left: 420px;
+    width: 237px;
+    height: 261px;
+}
+
+.ele5label1 {
+}
+
+.ele5label2 {
+    top: 113px;
+    left: 43px;
+    bottom: 122px;
+}
+
+.ele5photo {
+    top: 28px;
+    left: 76px;
+    width: 73px;
+    height: 67px;
+    border-top-left-radius: 33px;
+    border-bottom-left-radius: 33px;
+    border-top-right-radius: 33px;
+    border-bottom-right-radius: 33px;
+}
+
+.ele5button {
+    position: absolute;
+    top: 186px;
+    left: 50px;
+    background-color: rgb(36, 40, 164);
+    width: 133px;
+    height: 36px;
+}
+
+.element6 {
+    top: 168px;
+    left: -19px;
+    height: 121px;
+}
+
+.ele6label1 {
+    top: 76px;
+    left: 93px;
+}
+
+.ele6photo {
+    width: 61px;
+    top: 62px;
+    left: 16px;
+    border-top-left-radius: 34px;
+    border-bottom-left-radius: 34px;
+    border-top-right-radius: 34px;
+    border-bottom-right-radius: 34px;
+    height: 46px;
+}
+
+.ele6label2 {
+    width: 320px;
+    top: 18px;
+    left: 26px;
+    color: rgb(55, 54, 54);
+    font-size: 13px;
+}
+
+.element7 {
+    top: 300px;
+    left: 694px;
+    width: 292px;
+}
+
+.ele7photo {
+    background-color: rgb(41, 115, 86);
+    top: 2px;
+    left: 209px;
+    height: 89px;
+    width: 82px;
+}
+
+.ele7label1 {
+    font-size: 17px;
+    top: 17px;
+    left: 20px;
+}
+
+.ele7label2 {
+    top: 45px;
+    left: 24px;
+    color: rgb(152, 148, 148);
+}
+
+.searchelement {
+    position: absolute;
+    height: 144px;
+    width: 1102px;
+    top: 276px;
+    left: -736px;
+}
+
+.searchfield {
+    color: rgb(250, 239, 239);
+    width: 711px;
+    height: 54px;
+    position: absolute;
+    top: 38px;
+    left: 24px;
+}
+
+.searchbutton {
+    width: 115px;
+    -unity-font-style: bold;
+    font-size: 25px;
+}

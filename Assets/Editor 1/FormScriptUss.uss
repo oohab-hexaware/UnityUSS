@@ -1,0 +1,85 @@
+Label {
+    font-size: 20px;
+    -unity-font-style: bold;
+    color: rgb(68, 138, 255);
+}
+
+.button {
+    background-color: rgb(159, 110, 40);
+    margin-left: 125px;
+    margin-right: 111px;
+    margin-top: 63px;
+    height: 71px;
+    font-size: 42px;
+    color: rgb(26, 25, 25);
+}
+
+.button {
+}
+
+.button:active {
+    margin-left: 125px;
+    margin-right: 111px;
+    margin-top: 63px;
+    margin-bottom: 1px;
+}
+
+.mainscreen {
+    height: 626px;
+    -unity-text-outline-color: rgb(0, 0, 0);
+    background-color: rgb(12, 1, 1);
+    width: 523px;
+}
+
+.signin {
+    font-size: 54px;
+    margin-top: 75px;
+    margin-left: 36px;
+    height: 78px;
+    margin-bottom: 28px;
+    color: rgb(145, 147, 149);
+    -unity-font: url('project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#Arial');
+}
+
+.namefield {
+    margin-left: 89px;
+    margin-right: 89px;
+    padding-top: 0;
+    margin-top: 12px;
+    height: 61px;
+    -unity-font-style: normal;
+    -unity-text-align: upper-center;
+}
+
+.passwordfield {
+    margin-left: 89px;
+    margin-right: 89px;
+    padding-top: 0;
+    margin-top: 12px;
+    height: 60px;
+    -unity-text-align: upper-center;
+}
+
+.signinbutton {
+    margin-left: 89px;
+    margin-right: 89px;
+    margin-top: 54px;
+    height: 58px;
+    font-size: 33px;
+}
+
+.button1 {
+    width: 153px;
+    background-color: rgb(10, 9, 9);
+    margin-left: 63px;
+    margin-top: 35px;
+}
+
+.button2 {
+    width: 163px;
+    background-color: rgb(10, 9, 9);
+    margin-left: 306px;
+    margin-top: -20px;
+    color: rgb(154, 115, 27);
+    font-size: 12px;
+}

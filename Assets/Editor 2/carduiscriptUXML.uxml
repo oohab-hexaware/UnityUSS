@@ -1,0 +1,53 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Editor/carduiscriptUSS.uss?fileID=7433441132597879392&amp;guid=c8c09014b09e4264a9f15b353a6d91da&amp;type=3#carduiscriptUSS" />
+    <ui:ScrollView class="uiscroll scroll" style="width: 1148px; height: 772px;">
+        <ui:VisualElement class="uivisualelement mainelement" style="background-color: rgb(164, 158, 158); width: 1134px; height: 596px;">
+            <ui:VisualElement class="element1" style="top: -20px; left: 720px;">
+                <ui:Label text="A small text description followed by &#10;a call to action button" display-tooltip-when-elided="true" class="ele1label1" />
+                <ui:Label text="Card Heading" display-tooltip-when-elided="true" class="ele1label2" />
+                <ui:VisualElement class="ele1top" />
+                <ui:Button text="Go Somewhere" display-tooltip-when-elided="true" class="ele1button" />
+            </ui:VisualElement>
+            <ui:VisualElement class="element3" style="top: -15px; left: 406px;">
+                <ui:Label text="Perth WA,Australia" display-tooltip-when-elided="true" class="ele3label1" />
+                <ui:VisualElement class="ele3sun" />
+                <ui:Label text="Sunday,11:00pm" display-tooltip-when-elided="true" class="ele3label2" />
+                <ui:Label text="22C" display-tooltip-when-elided="true" class="ele3temp" />
+                <ui:Label text="Humidity 66%" display-tooltip-when-elided="true" class="ele3humid" />
+            </ui:VisualElement>
+            <ui:VisualElement class="element4" style="top: 1px; left: 14px;">
+                <ui:VisualElement class="ele4photo" style="background-color: rgb(41, 115, 86);" />
+                <ui:Label text="Green Oasis Bougainvillea" display-tooltip-when-elided="true" class="ele4label1" />
+                <ui:VisualElement class="ele4stars" />
+                <ui:Label text="PRIVATE ROOM" display-tooltip-when-elided="true" class="ele4label2" />
+            </ui:VisualElement>
+            <ui:VisualElement class="element2 element5 ele5label1" style="top: 267px; left: 82px;">
+                <ui:Label text="Engineering Manager" display-tooltip-when-elided="true" class="ele2label1" style="top: 145px; left: 43px; font-size: 15px;" />
+                <ui:Label text="Meagan Fisher" display-tooltip-when-elided="true" class="ele2label2 ele5label2" />
+                <ui:VisualElement class="ele2photo ele5photo" style="top: 24px; left: 72px;" />
+                <ui:Button text="Follow" display-tooltip-when-elided="true" class="ele5button" />
+            </ui:VisualElement>
+            <ui:VisualElement class="element2" style="top: 188px; left: 361px;">
+                <ui:Label text="4 hours ago" display-tooltip-when-elided="true" class="ele2label1" />
+                <ui:Label text="Mountain View" display-tooltip-when-elided="true" class="ele2label2" />
+                <ui:VisualElement class="ele2top" />
+                <ui:VisualElement class="ele2photo" />
+            </ui:VisualElement>
+            <ui:VisualElement class="element4 element6" style="top: 120px; left: -47px;">
+                <ui:Label text="Adam Judge" display-tooltip-when-elided="true" class="ele4label1 ele6label1" />
+                <ui:VisualElement class="ele4stars ele6photo" style="background-color: rgb(183, 159, 159);" />
+                <ui:Label text="&quot;The Alternative to good design is always &#10;bad design.There is no such thing as no design" display-tooltip-when-elided="true" class="ele4label2 ele6label2" />
+            </ui:VisualElement>
+            <ui:VisualElement class="element4 element7">
+                <ui:VisualElement class="ele4photo ele7photo" />
+                <ui:Label text="AT Finance Center" display-tooltip-when-elided="true" class="ele4label1 ele7label1" />
+                <ui:Label text="Private Building" display-tooltip-when-elided="true" class="ele4label2 ele7label2" />
+                <ui:VisualElement class="searchelement">
+                    <ui:TextField picking-mode="Ignore" class="searchfield">
+                        <ui:Button text="Search" display-tooltip-when-elided="true" class="searchbutton" />
+                    </ui:TextField>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:ScrollView>
+</ui:UXML>
